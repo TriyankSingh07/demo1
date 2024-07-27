@@ -1,4 +1,5 @@
  <script>
+  
         const apikey = "48d2dcebc4932fae7d60914b44487b11";
         const apiurl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=Bangalore";
         async function checkWeather() {
